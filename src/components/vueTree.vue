@@ -40,7 +40,6 @@ export default {
 <style scoped>
 .root {
   margin-top: 15px;
-
 }
 
 .child {
@@ -51,7 +50,5 @@ export default {
 
 .icon {
   margin-left: 130px;
-
-
 }
 </style>
